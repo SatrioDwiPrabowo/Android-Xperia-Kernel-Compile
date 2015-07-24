@@ -9,5 +9,6 @@ Xperia Tamsui Device ( Xperia J (JLO) , Xperia Tipo (Tapioca) , Xperia Miro (Mes
 Xperia M Device ( Xperia M Single SIM & Xperia M Dual SIM )
 Xperia Z1 ( Xperia Z1 Compact )
 Xperia Z Ultra
+Xperia SP running CM12.1
 
 best regard SatrioDwiPrabowo <sdprabowo77@gmail.com>
